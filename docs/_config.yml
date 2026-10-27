@@ -1,0 +1,6 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+title: Hacktoberfest Friendly
+description: Hacktoberfest-friendly — your PR merged automatically in minutes
+show_downloads: false
