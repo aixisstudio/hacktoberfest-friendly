@@ -24,14 +24,25 @@ Need PRs for Hacktoberfest? This repo auto-merges your contribution in minutes.
 
 Hacktoberfest reviewers disqualify spam repos. Keep your contribution clean, and this repo stays valid for everyone.
 
+## 📋 Accepted PR types (instant merge)
 
-## ❓ Frequently Asked Questions
+| Type | File to edit | Notes |
+|---|---|---|
+| Add your name | `contributors.md` | Any format |
+| Fix a typo | any `.md` | Real fixes only |
+| Add a resource | `resources.md` | Must be free/relevant |
+| Translate | `i18n/` | New language files welcome |
 
-**Where can I get Hacktoberfest PRs merged fast?**
+## 🚫 What gets rejected
 
-This repo auto-merges valid first contributions — fork, add your name to contributors.md, open a PR.
+- Empty/whitespace-only changes
+- Spam links or self-promo off-topic
+- Deleting others' names
+- Machine-generated filler PRs
 
+## 🏅 After your PR
+
+Your PR counts toward Hacktoberfest within ~7 days (review period). Check your status at [hacktoberfest.com](https://hacktoberfest.com). Four accepted PRs = completion.
 
 ---
-
-Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Snitch](https://github.com/aixisstudio/Snitch), the open-source application firewall. See also: [all resources](https://aixisstudio.github.io).
+Maintained by [aixisstudio](https://github.com/aixisstudio).
