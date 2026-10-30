@@ -4,49 +4,47 @@
 
 Friendly Hacktoberfest — ta PR fusionnée automatiquement en minutes
 
-_Le contenu détaillé (listes, liens, descriptions) est en anglais pour rester maintenable — les sections ci-dessous te guident._
+## -Hacktoberfest-friendly
 
-## 🎃 Hacktoberfest-friendly
+Besoin de relations publiques pour Hacktoberfest? Cette repo fusionne automatiquement votre contribution en quelques minutes.
 
-Need PRs for Hacktoberfest? This repo auto-merges your contribution in minutes.
+## # Obtenez votre PR fusionné
 
-## 🪜 Get your PR merged
-
-1. Fork this repo
-2. Add your name to [`contributors.md`](contributors.md):
+1. Fourche cette repo
+2. Ajouter votre nom à [`contributors.md`](contributors.md):
    ```markdown
    - [@your-username](https://github.com/your-username)
    ```
-3. Open a PR → auto-merged ✅
+3. Ouvrir un PR → fusion automatique
 
-## ✅ Why it counts
+Pourquoi ça compte ?
 
-- Public repo + merged PR = a valid Hacktoberfest contribution (check the official rules for quality requirements)
-- Trivial PRs can be flagged as spam by Hacktoberfest — make your line a *little* meaningful: tell us your country, your stack, your favorite OS. Takes 5 extra seconds.
+- Repo public + regroupé PR = une contribution Hacktoberfest valide (vérifier les règles officielles pour les exigences de qualité)
+- Les PR triviaux peuvent être marqués comme spam par Hacktoberfest — rendre votre ligne un *petit* significatif: dites-nous votre pays, votre pile, votre OS préféré. Ça prend 5 secondes de plus.
 
-## ⚠️ A word on quality
+Un mot sur la qualité
 
-Hacktoberfest reviewers disqualify spam repos. Keep your contribution clean, and this repo stays valid for everyone.
+Hacktoberfest critiques disqualifier les repos de spam. Gardez votre contribution propre, et cette pension reste valable pour tout le monde.
 
-## 📋 Accepted PR types (instant merge)
+Type de PR accepté (fusion instantanée)
 
-| Type | File to edit | Notes |
+Type de fichier à modifier Notes
 |---|---|---|
-| Add your name | `contributors.md` | Any format |
-| Fix a typo | any `.md` | Real fixes only |
-| Add a resource | `resources.md` | Must be free/relevant |
-| Translate | `i18n/` | New language files welcome |
+Ajouter votre nom: `contributors.md`
+Correction d'une faute de frappe d'un `.md`
+Ajouter une ressource
+De nouveaux fichiers de langue welcome
 
-## 🚫 What gets rejected
+Ce qui est rejeté
 
-- Empty/whitespace-only changes
-- Spam links or self-promo off-topic
-- Deleting others' names
-- Machine-generated filler PRs
+- Changements vides/espaces blancs seulement
+- Liens de pourriel ou auto-promotion hors-top
+- Supprimer les noms des autres
+- RP de remplissage généré par la machine
 
-## 🏅 After your PR
+Après votre RP
 
-Your PR counts toward Hacktoberfest within ~7 days (review period). Check your status at [hacktoberfest.com](https://hacktoberfest.com). Four accepted PRs = completion.
+Votre PR compte vers Hacktoberfest dans les ~7 jours (période de révision). Vérifiez votre statut à [hacktoberfest.com](https://hacktoberfest.com). Quatre PR acceptées = achèvement.
 
 ---
 ## Contribuer
