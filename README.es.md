@@ -4,49 +4,47 @@
 
 Friendly para Hacktoberfest — tu PR fusionada automáticamente
 
-_El contenido detallado (listas, enlaces, descripciones) está en inglés por mantenibilidad — las secciones siguientes te guían._
-
 ## 🎃 Hacktoberfest-friendly
 
-Need PRs for Hacktoberfest? This repo auto-merges your contribution in minutes.
+¿Necesitas relaciones públicas para Hacktoberfest? Este repo auto-merge su contribución en minutos.
 
 ## 🪜 Get your PR merged
 
 1. Fork this repo
-2. Add your name to [`contributors.md`](contributors.md):
+2. Añada su nombre a [`contributors.md`](contributors.md):
    ```markdown
    - [@your-username](https://github.com/your-username)
    ```
-3. Open a PR → auto-merged ✅
+3. Abrir un PR → Auto-merged 
 
-## ✅ Why it counts
+## Por qué cuenta
 
-- Public repo + merged PR = a valid Hacktoberfest contribution (check the official rules for quality requirements)
-- Trivial PRs can be flagged as spam by Hacktoberfest — make your line a *little* meaningful: tell us your country, your stack, your favorite OS. Takes 5 extra seconds.
+- Public repo + merged PR = una contribución válida Hacktoberfest (ver las reglas oficiales para requisitos de calidad)
+- PRs triviales pueden ser marcados como spam por Hacktoberfest — hacer su línea un *pequeño* significativo: díganos su país, su pila, su sistema operativo favorito. Toma 5 segundos extra.
 
-## ⚠️ A word on quality
+Una palabra de calidad
 
-Hacktoberfest reviewers disqualify spam repos. Keep your contribution clean, and this repo stays valid for everyone.
+Los revisores Hacktoberfest descalifican los residuos de spam. Mantenga su contribución limpia, y este repo permanece válido para todos.
 
-## 📋 Accepted PR types (instant merge)
+## 📋 Aceptado tipos de PR (instant merge)
 
-| Type | File to edit | Notes |
+Silencio Tipo Silencio Archivo para editar Silencio Notas
 |---|---|---|
-| Add your name | `contributors.md` | Any format |
-| Fix a typo | any `.md` | Real fixes only |
-| Add a resource | `resources.md` | Must be free/relevant |
-| Translate | `i18n/` | New language files welcome |
+Silencio Añadir su nombre Silencio `contributors.md` Silencio Cualquier formato Silencio
+Silencio Arreglar un tipo Silencio cualquier `.md` Silencio Real soluciones solamente
+Silencio Añadir un recurso Silencio `resources.md` Silencio Debe ser libre/relevant Silencio
+Silencio Traducir Silencio `i18n/` Silencio Nuevos archivos de idiomas bienvenidos
 
-## 🚫 What gets rejected
+Lo que se rechaza
 
-- Empty/whitespace-only changes
-- Spam links or self-promo off-topic
-- Deleting others' names
-- Machine-generated filler PRs
+- Cambios vacíos/sólo espacio-blanco
+- Enlaces de repuesto o autopromoción fuera del tema
+- Eliminar los nombres de otros
+- PR de relleno generado por máquina
 
-## 🏅 After your PR
+## ⋅ After your PR
 
-Your PR counts toward Hacktoberfest within ~7 days (review period). Check your status at [hacktoberfest.com](https://hacktoberfest.com). Four accepted PRs = completion.
+Su PR cuenta hacia Hacktoberfest dentro de ~7 días (período de revisión). Compruebe su estado en [hacktoberfest.com] (https://hacktoberfest.com). Cuatro PRs aceptados = finalización.
 
 ---
 ## Contribuir
