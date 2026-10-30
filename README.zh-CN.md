@@ -4,49 +4,47 @@
 
 Hacktoberfest 友好 — 你的 PR 几分钟内自动合并
 
-_详细内容（列表、链接、描述）以英文维护 — 以下章节为你指引。_
+{\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}####################哈克托伯尔节日友好
 
-## 🎃 Hacktoberfest-friendly
+需要公关吗? 几分钟后你的贡献就会自动出现
 
-Need PRs for Hacktoberfest? This repo auto-merges your contribution in minutes.
+□ □ □ 合并您的公关
 
-## 🪜 Get your PR merged
-
-1. Fork this repo
-2. Add your name to [`contributors.md`](contributors.md):
+1. 叉子这种还本付息
+2. 将您的名字添加到 [`contributors.md`] (贡献者.md):
    ```markdown
    - [@your-username](https://github.com/your-username)
    ```
-3. Open a PR → auto-merged ✅
+3. 开放PR + 自动合并 + +
 
-## ✅ Why it counts
+∮为什么它算数∮
 
-- Public repo + merged PR = a valid Hacktoberfest contribution (check the official rules for quality requirements)
-- Trivial PRs can be flagged as spam by Hacktoberfest — make your line a *little* meaningful: tell us your country, your stack, your favorite OS. Takes 5 extra seconds.
+- 公共回购+合并PR=有效的Hacktoberfest捐款(检查关于质量要求的官方规则)
+- Trivil PRs可以被Hacktoberfest标注为垃圾邮件——让你的台词变得有意义:告诉我们你的国家,你的堆栈,你最喜欢的OS. 还需要5秒
 
-## ⚠️ A word on quality
+# # # 关于质量的一个词 #
 
-Hacktoberfest reviewers disqualify spam repos. Keep your contribution clean, and this repo stays valid for everyone.
+Hacktoberfest审查员取消垃圾邮件资格 保持你的贡献干净, 和这回波保持有效 每个人。
 
-## 📋 Accepted PR types (instant merge)
+□ {} 接受 PR 类型( 即时合并)
 
-| Type | File to edit | Notes |
+要编辑的 QQ 文件类型 QQ 注释 QQ
 |---|---|---|
-| Add your name | `contributors.md` | Any format |
-| Fix a typo | any `.md` | Real fixes only |
-| Add a resource | `resources.md` | Must be free/relevant |
-| Translate | `i18n/` | New language files welcome |
+* * * * 添加你的名字 * * `contributors.md` * * 任何格式 * * * * *
+=========================================================================================================================================================================
+QQ 添加资源 QQ `resources.md` QQ 必须自由/ 相关 QQ
+翻译 `i18n/` 新语言文件欢迎 QQ
 
-## 🚫 What gets rejected
+# # 被拒绝的是什么 #
 
-- Empty/whitespace-only changes
-- Spam links or self-promo off-topic
-- Deleting others' names
-- Machine-generated filler PRs
+- 空/ 仅空白更改
+- 垃圾邮件链接或自我促进
+- 删除他人的名字
+- 机器产生的填充器PR
 
-## 🏅 After your PR
+□□□□□□□□在公关后.
 
-Your PR counts toward Hacktoberfest within ~7 days (review period). Check your status at [hacktoberfest.com](https://hacktoberfest.com). Four accepted PRs = completion.
+您的公关在7天内(审查期)算上Hacktoberfest。 请检查access-date=中的日期值 (帮助) [hacktoberfest.com] (https://hacktoberfest.com). 四份已接受的PR=完成。
 
 ---
 ## 贡献
