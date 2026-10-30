@@ -4,49 +4,47 @@
 
 Дружелюбно к Hacktoberfest — твой PR мержится автоматически
 
-_Подробное содержимое (списки, ссылки, описания) ведётся на английском — разделы ниже помогут сориентироваться._
+## - Hacktoberfest
 
-## 🎃 Hacktoberfest-friendly
+Нужны PR для Hacktoberfest? Этот репо автоматически сливает ваш вклад в считанные минуты.
 
-Need PRs for Hacktoberfest? This repo auto-merges your contribution in minutes.
+##  merged Получите свой PR
 
-## 🪜 Get your PR merged
-
-1. Fork this repo
-2. Add your name to [`contributors.md`](contributors.md):
+1.Вилка этого репо
+2. Добавить свое имя в [`contributors.md`] (tributors.md):
    ```markdown
    - [@your-username](https://github.com/your-username)
    ```
-3. Open a PR → auto-merged ✅
+3.Откройте PR → Автослияние  
 
-## ✅ Why it counts
+###Почему это важно
 
-- Public repo + merged PR = a valid Hacktoberfest contribution (check the official rules for quality requirements)
-- Trivial PRs can be flagged as spam by Hacktoberfest — make your line a *little* meaningful: tell us your country, your stack, your favorite OS. Takes 5 extra seconds.
+Публичное репо + объединенный PR = действительный вклад Hacktoberfest (проверьте официальные правила требований к качеству)
+Тривиальные PR-адреса могут быть помечены как спам Hacktoberfest — сделайте свою линию немного значимой: скажите нам свою страну, свой стек, свою любимую ОС. Занимает 5 дополнительных секунд.
 
-## ⚠️ A word on quality
+##  ️ Несколько слов о качестве
 
-Hacktoberfest reviewers disqualify spam repos. Keep your contribution clean, and this repo stays valid for everyone.
+Рецензенты Hacktoberfest дисквалифицируют спам-репозитории. Держите свой вклад в чистоте, и это РЕПО остается действительным для всех.
 
-## 📋 Accepted PR types (instant merge)
+## ) Принятые типы PR (мгновенное слияние)
 
-| Type | File to edit | Notes |
+| Тип | Файл для редактирования | Заметки |
 |---|---|---|
-| Add your name | `contributors.md` | Any format |
-| Fix a typo | any `.md` | Real fixes only |
-| Add a resource | `resources.md` | Must be free/relevant |
-| Translate | `i18n/` | New language files welcome |
+Добавить имя | `contributors.md` | Любой формат
+| Исправить опечатку | любой `.md` | Реальные исправления только |
+Добавить ресурс | `resources.md` | Должен быть свободным/соответствующим |
+| Перевод | `i18n/` | Новые языковые файлы приветствуются
 
-## 🚫 What gets rejected
+##То, что отвергается
 
-- Empty/whitespace-only changes
-- Spam links or self-promo off-topic
-- Deleting others' names
-- Machine-generated filler PRs
+- Изменения только в пустом/белом пространстве
+Спам-ссылки или самореклама по теме
+- Удаление имен других
+- Сгенерированные машиной наполнители PR
 
-## 🏅 After your PR
+## после PR
 
-Your PR counts toward Hacktoberfest within ~7 days (review period). Check your status at [hacktoberfest.com](https://hacktoberfest.com). Four accepted PRs = completion.
+Ваш PR рассчитывает на Hacktoberfest в течение ~ 7 дней (период обзора). Проверьте свой статус на [hacktoberfest.com] (https://hacktoberfest.com). Четыре принятых PR = завершение.
 
 ---
 ## Участие
