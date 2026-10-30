@@ -4,49 +4,47 @@
 
 Hacktoberfest フレンドリー — PR が数分で自動マージ
 
-_詳細なコンテンツ（リスト・リンク・説明）は保守のため英語です。以下のセクションがガイドになります。_
+## 🎃 ハクトバーフェストフレンドリー
 
-## 🎃 Hacktoberfest-friendly
+ハクトバーフェストのPRが必要ですか? このリポジトリは、あなたの貢献を数分で自動化します。
 
-Need PRs for Hacktoberfest? This repo auto-merges your contribution in minutes.
+## 🪜 あなたのPRマージを取得します
 
-## 🪜 Get your PR merged
-
-1. Fork this repo
-2. Add your name to [`contributors.md`](contributors.md):
+1. フォークこのレポ
+2. [`contributors.md`](contributors.md)にあなたの名前を加えて下さい:
    ```markdown
    - [@your-username](https://github.com/your-username)
    ```
-3. Open a PR → auto-merged ✅
+3. PR → オートマージを開く ✅
 
-## ✅ Why it counts
+## ✅ なぜカウントするのか
 
-- Public repo + merged PR = a valid Hacktoberfest contribution (check the official rules for quality requirements)
-- Trivial PRs can be flagged as spam by Hacktoberfest — make your line a *little* meaningful: tell us your country, your stack, your favorite OS. Takes 5 extra seconds.
+- パブリックレポ + 合併PR = 有効なハクトバーフェストの貢献(品質要件の公式ルールをチェック)
+- Trivial PRは、Hacktoberfestによってスパムとしてフラグを立てることができます。*little*の意味:あなたの国、あなたのスタック、あなたの好きなOSを教えてください。 5秒間かかる。
 
-## ⚠️ A word on quality
+## ⚠️ 品質に関する単語
 
-Hacktoberfest reviewers disqualify spam repos. Keep your contribution clean, and this repo stays valid for everyone.
+ハクトバーフェストの査読者はスパムの処分を失います。 あなたの貢献を清潔に保ち、このリポジトリは誰にも有効です。
 
-## 📋 Accepted PR types (instant merge)
+## 受け入れられたPRタイプ (instant merge)
 
-| Type | File to edit | Notes |
+| タイプ | 編集用ファイル | ノート |
 |---|---|---|
-| Add your name | `contributors.md` | Any format |
-| Fix a typo | any `.md` | Real fixes only |
-| Add a resource | `resources.md` | Must be free/relevant |
-| Translate | `i18n/` | New language files welcome |
+| お名前 | `contributors.md` | 任意の形式 |
+| ティポを修正 | `.md` | 実際の修正のみ |
+| リソースの追加 | `resources.md` | 無料・関連 |
+| 翻訳 | `i18n/` | 新規言語ファイル歓迎 |
 
-## 🚫 What gets rejected
+## いつか拒否されます
 
-- Empty/whitespace-only changes
-- Spam links or self-promo off-topic
-- Deleting others' names
-- Machine-generated filler PRs
+- 空白/空白のみの変更
+- スパムリンクまたは自己プロモーションオフトピック
+- 他の名前を削除
+- 機械生成フィラーPR
 
-## 🏅 After your PR
+## あなたのPRの後に
 
-Your PR counts toward Hacktoberfest within ~7 days (review period). Check your status at [hacktoberfest.com](https://hacktoberfest.com). Four accepted PRs = completion.
+あなたのPRは~7日以内にハクトバーフェストに向かってカウントします(レビュー期間)。 [hacktoberfest.com](https://hacktoberfest.com)でステータスを確認してください。 4つの承認されたPR =完了。
 
 ---
 ## 貢献
